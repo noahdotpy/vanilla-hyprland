@@ -1,4 +1,4 @@
-name: VanillaOS with Hyprland # Replace this name with your image name
+name: VanillaOS with Hyprland (customised by noahdotpy) # Replace this name with your image name
 id: vanilla-hyprland # Replace this ID with your image ID
 stages:
 - id: build
